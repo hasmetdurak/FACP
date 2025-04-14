@@ -1,0 +1,3 @@
+# Security
+
+FACP uses JWT and OAuth2 for secure AI interactions. Configure your `SECRET_KEY` environment variable and generate tokens as described in [super_bridge.md](super_bridge.md).
