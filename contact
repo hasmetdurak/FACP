@@ -1,0 +1,10 @@
+
+---
+
+##### **2. Core Code: facp/ Directory**
+The codebase is modular, well-documented, and designed for extensibility.
+
+###### **facp/__init__.py**
+```python
+__version__ = "0.1.0"
+from .super_bridge import FACPSuperBridge
