@@ -1,0 +1,7 @@
+FACP (Fast Context Protocol)
+Repository Overview
+Purpose: FACP is a Python framework that seamlessly transforms diverse resources—APIs, static websites, databases, IoT devices, social media, and physical systems—into MCP (Model-Controller-Protocol) servers, enabling AI agents to discover, manage, and optimize them with unparalleled flexibility.
+Target Audience: Python developers, AI researchers, IoT engineers, DevOps professionals, and open-source contributors.
+License: MIT License.
+Language: Python 3.8+, built on FastAPI with extensible support for other frameworks.
+Status: Early-stage prototype, actively seeking community contributions.
